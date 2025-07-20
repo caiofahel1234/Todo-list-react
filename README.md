@@ -22,7 +22,7 @@ Uma aplicação simples de lista de tarefas desenvolvida com **React** para um a
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/Todo-list-react.git
+git clone https://github.com/caiofahel1234/Todo-list-react.git
 Acesse a pasta do projeto:
 
 
