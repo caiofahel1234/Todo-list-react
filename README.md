@@ -36,8 +36,6 @@ npm run dev
 
  Estrutura de pastas
 css
-Copiar
-Editar
  src
  ┣  components
  ┃ ┣Todo.jsx
